@@ -1,5 +1,9 @@
-project:
-  title: "exercise-25"
-
-editor: visual
+pproject: 
+  title: “Exercise 25“ 
+  output-dir: docs
+  type: website
+  
+format:
+   html:
+    self-contained: true
 
